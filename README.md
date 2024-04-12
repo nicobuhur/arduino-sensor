@@ -61,7 +61,7 @@ In conclusion, the Arduino Temperature and Gas Monitoring System offers a holist
 ### Appendices
 
 #### Appendix A: Schematic Diagram
-![alt text](main/Picture 1.png)
+![alt text](images/scheme.png)
 
 #### Appendix B: Code Snippets
-*Provide code snippets for temperature monitoring and gas detection logic here*
+Please see the file called "sd_card_reader.ino"
